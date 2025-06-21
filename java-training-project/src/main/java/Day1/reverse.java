@@ -1,4 +1,4 @@
-package com.mycompany.javatraining;
+package Day1;
 
 public class reverse {
 	public static void main(String[] args) {
