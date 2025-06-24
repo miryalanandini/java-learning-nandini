@@ -4,4 +4,12 @@
   <artifactId>java-training-project</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Java Training Project</name>
+  <dependencies>
+	<dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.20.0</version> <!-- or latest stable -->
+  </dependency>
+  </dependencies>
+  
 </project>
